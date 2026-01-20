@@ -103,6 +103,7 @@ const projects = [
   }
 ];
 
+/*
 const courses = [
   {
     title: 'Advanced VLSI Design',
@@ -125,6 +126,8 @@ const courses = [
     topics: ['ML Accelerators', 'Quantization', 'Hardware-Software Co-design']
   }
 ];
+
+*/
 
 const contact = [
   { icon: Mail, label: 'Email', value: 'jason.baik@example.com', href: 'mailto:jason.baik@example.com' },
