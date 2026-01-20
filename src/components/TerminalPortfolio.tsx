@@ -103,31 +103,30 @@ const projects = [
   }
 ];
 
-/*
+
 const courses = [
   {
-    title: 'Advanced VLSI Design',
-    institution: 'Stanford University',
-    topics: ['CMOS Design', 'Layout Optimization', 'Timing Analysis']
+    title: 'Machine Learning',
+    topics: ['Supervised Learning', 'Neural Networks', 'Model Evaluation', 'Unsupervised Learning']
+  },
+
+  {
+    title: 'Microprocessor Systems Project',
+    topics: ['Embedded Systems', 'Microprocessors', 'Microcontrollers', 'Assembly Language', 'Real-time System Design']
   },
   {
-    title: 'Deep Learning Specialization',
-    institution: 'Coursera / deeplearning.ai',
-    topics: ['CNNs', 'RNNs', 'Neural Architecture']
+    title: 'COMPENG 2DI4: Logic Design',
+    topics: ['FPGA', 'Verilog', 'Digital Logic Circuits', 'Boolean Algebra', 'Combinational Logic', 'Sequential Logic', 'Digital Circuit Simulation']
   },
   {
-    title: 'Digital System Design',
-    institution: 'MIT OpenCourseWare',
-    topics: ['HDL', 'RTL Design', 'FPGA Implementation']
-  },
-  {
-    title: 'Machine Learning for Hardware',
-    institution: 'UC Berkeley',
-    topics: ['ML Accelerators', 'Quantization', 'Hardware-Software Co-design']
+    title: 'Advanced Probability and Random Processes',
+    topics: ['Stochastic Processes', 'Signal Processing', 'Communications', 'Control Systems', 'Probabilistic Modeling']
   }
+
+
 ];
 
-*/
+
 
 const contact = [
   { icon: Mail, label: 'Email', value: 'jason.baik@example.com', href: 'mailto:jason.baik@example.com' },
